@@ -69,3 +69,5 @@ This task was the most valuable in terms of real-world application of machine le
 
 The project demonstrated the full lifecycle of a machine learning task — from loading and cleaning data, to training and evaluating a model, and saving final results. It was a strong foundation for future projects in data science, NLP, and AI. I now feel confident in applying Python and Scikit-learn to build similar classification systems for other datasets.
 
+#output
+[Task4_Spam_Model pdf.pdf](https://github.com/user-attachments/files/20747001/Task4_Spam_Model.pdf.pdf)
